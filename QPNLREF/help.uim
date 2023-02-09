@@ -1,0 +1,99 @@
+:help name=keyl.
+Function Keys - Help
+:xh3.Function keys
+:ehelp.
+.*
+:help name=helpf1.
+:parml.
+:pt.F1=Help
+:pd.
+Provides additional information about using the display or a
+specific field on the display.
+:eparml.
+:ehelp.
+.*
+:help name=exit.
+:parml.
+:pt.F3=Exit
+:pd. Ends the current task and returns to the display from which the
+task was started.
+:eparml.
+:ehelp.
+.*
+:help name=prompt.
+:parml.
+:pt.F4=Prompt
+:pd. Provides assistance in entering or selecting a command.
+:eparml.
+:ehelp.
+.*
+:help name=retrieve.
+:parml.
+:pt.F9=Retrieve
+:pd. Displays the last command you entered on the command line and
+any parameters you included. Pressing this key once, shows the
+last command you ran. Pressing this key twice, shows the
+command you ran before that and so on.
+:eparml.
+:ehelp.
+.*
+:help name=cancel.
+:parml.
+:pt.F12=Cancel
+:pd. Returns to the previous menu or display.
+:eparml.
+:ehelp.
+.*
+:help name=enter.
+:parml.
+:pt.Enter
+:pd. Submits information on the display for processing.
+:eparml.
+:ehelp.
+.*
+:help name=help.
+:parml.
+:pt.Help
+:pd. Provides additional information about using the display.
+:eparml.
+:ehelp.
+.*
+:help name=home.
+:parml.
+:pt.Home
+:pd. Goes to the menu that was shown after you signed on the system.
+This menu is either the initial menu defined in your user profile
+or the menu you requested from the Sign-On display.
+:eparml.
+:ehelp.
+.*
+:help name=pagedown.
+:parml.
+:pt.Page Down (Roll Up)
+:pd. Moves forward to show additional information for this display.
+:eparml.
+:ehelp.
+.*
+:help name=pageup.
+:parml.
+:pt.Page Up (Roll Down)
+:pd. Moves backward to show additional information for this display.
+:eparml.
+:ehelp.
+.*
+:help name=print.
+:parml.
+:pt.Print
+:pd. Prints information currently shown on the display.
+:eparml.
+:ehelp.
+.*
+:help name='menu/nohelpavail'.
+No Help Available
+:p. Help information is not available at this time.
+:ehelp.
+.*
+:help name='menu/nohelp'.
+:ehelp.
+.*
+:help name='menu/help'.
