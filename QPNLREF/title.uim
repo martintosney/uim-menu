@@ -1,0 +1,6 @@
+:panel name=mnupnl
+       help='menu/help'
+       keyl=menukeys
+       enter='msg cpd9817 qcpfmsg'
+       panelid=zmenu
+       topsep=sysnam.
